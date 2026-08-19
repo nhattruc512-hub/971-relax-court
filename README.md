@@ -5,7 +5,7 @@ Website gọi nước + đồ ăn qua QR, không yêu cầu khách đăng nhập
 ## Trang
 - `index.html`: trang khách gọi món
 - `staff.html`: trang nhân viên nhận đơn và xem doanh thu
-- PIN nhân viên: `642971`
+- PIN nhân viên: `270523`
 
 ## QR từng sân
 Sau khi website có URL chính thức:
