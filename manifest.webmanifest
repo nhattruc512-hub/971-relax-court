@@ -1,7 +1,7 @@
 {
-  "name": "971 Relax Court - Nhân viên",
-  "short_name": "971 Nhân viên",
-  "description": "Ứng dụng nhân viên nhận đơn và theo dõi doanh thu 971 Relax Court",
+  "name": "Thông báo nhận đơn",
+  "short_name": "Thông báo nhận đơn",
+  "description": "Ứng dụng nhân viên nhận thông báo đơn và theo dõi doanh thu 971 Relax Court",
   "start_url": "./staff.html",
   "scope": "./",
   "display": "standalone",
